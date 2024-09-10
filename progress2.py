@@ -2,7 +2,7 @@ import streamlit as st
 
 # Define subjects and units
 subjects = ['MSF', 'DS', 'JP', 'DLCA', 'OS', 'DBMS']
-units = ['Unit 1', 'Unit 2', 'Unit 2.5']
+units = ['Unit 1', 'Unit 2', 'Unit 3.5']
 
 # Initialize session state for all toggles
 if 'toggles' not in st.session_state:
